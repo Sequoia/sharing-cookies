@@ -1,0 +1,8 @@
+{
+  "rules" : [
+    { "pathname" : "/login", "dest" : "writer-gkdldldejq.now.sh" },
+    { "pathname" : "/increment", "dest" : "writer-gkdldldejq.now.sh" },
+    { "pathname" : "/logout", "dest" : "writer-gkdldldejq.now.sh" },
+    { "dest" : "reader-irdrsmayqv.now.sh" }
+  ]
+}

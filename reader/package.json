@@ -1,0 +1,17 @@
+{
+  "name": "reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "keywords": [],
+  "author": "Sequoia McDowell <sequoia.mcdowell@gmail.com> (http://sequoia.makes.software/)",
+  "license": "ISC",
+  "dependencies": {
+    "connect-redis": "^3.3.0",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3"
+  }
+}
